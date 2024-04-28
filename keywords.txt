@@ -1,0 +1,8 @@
+Aroma	KEYWORD1
+connectToDevice	KEYWORD2
+enableFog KEYWORD3
+enableLed KEYWORD4
+setLedRgbValue KEYWORD5
+queryFogStatus KEYWORD6
+queryLedStatus KEYWORD7
+setTime KEYWORD8
